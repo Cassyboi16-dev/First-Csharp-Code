@@ -9,3 +9,10 @@
 ```
 
 - If you're interested in learning the foundations of `C#` checkout ("https://freecodecamp.org") `||` (https://learn.microsoft.com) they both are collaborating\non the program and upon completion of the program,\n you get a verified certification for the `Foundations of C#` by microsoft so that's a start.
+
+> This codebase consist of code from [freeCodeCamp](https://freecodecamp.org) collaborative course with [Microsoft](https://learn.microsoft.com).
+
+> Most of the code written are guided projects from the course please be advised practice on your own
+
+
+
